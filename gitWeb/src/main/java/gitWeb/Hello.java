@@ -8,6 +8,8 @@ public class Hello {
 		
 		System.out.println("본인만 천재라고 생각하는 듯");
 		//상훈이바보
+		
+		//충돌돌ㄷ롣ㄹㄷㄹ돌
 
 	}
 
