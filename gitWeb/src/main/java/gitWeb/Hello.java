@@ -7,6 +7,7 @@ public class Hello {
 		//정미니천재
 		
 		System.out.println("본인만 천재라고 생각하는 듯");
+		//상훈이바보
 
 	}
 
